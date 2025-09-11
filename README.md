@@ -74,8 +74,8 @@ Eu fui responsável por toda a **programação**, enquanto **Eduardo Antonio** f
 **Minhas contribuições:**
 - ✅ Programação de mecânicas de jogo  
 - ✅ Sistema de colisão e física  
-- ✅ IA dos inimigos (zumbis)  
-- ✅ Sistema de progressão e salvar jogo  
+- ✅ IA dos inimigos  
+- ✅ Sistema de progressão 
 - ✅ Otimização de performance  
 
 ---
