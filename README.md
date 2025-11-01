@@ -87,6 +87,7 @@ Eu fui responsável por toda a **programação**, enquanto **Eduardo Antonio** f
 | **Vellus**      | 🚧 Em desenvolvimento              | 🔨 Em andamento |
 | **Estelar Labs**| 🌌 Projeto concluído               | ✅ Concluído    |
 | **MegaPlay**    | 🎮 Site de nostalgia anos 90/2000  | ✅ Concluído    |
+| **Mais Vida**    | 🌿 Mais Vida – Landing Page Profissional  | ✅ Concluído    |
 
 ---
 
