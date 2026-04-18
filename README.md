@@ -88,6 +88,7 @@ Eu fui responsável por toda a **programação**, enquanto **Eduardo Antonio** f
 | **Estelar Labs**| 🌌 Projeto concluído               | ✅ Concluído    |
 | **MegaPlay**    | 🎮 Site de nostalgia anos 90/2000  | ✅ Concluído    |
 | **Mais Vida**    | 🌿 Mais Vida – Landing Page Profissional  | ✅ Concluído    |
+| **LuxeGlow**    | ✨ LuxeGlow - Landing Page Premium de Skincare com IA  | ✅ Concluído    |
 
 ---
 
