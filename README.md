@@ -90,6 +90,7 @@ Eu fui responsável por toda a **programação**, enquanto **Eduardo Antonio** f
 | **LuxeGlow**    | ✨ LuxeGlow - Landing Page Premium de Skincare com IA  | ✅ Concluído    |
 | **Museu de Bugs**    | 🏛️  Museu de Bugs -  Exposições das maiores falhas de software da história  | ✅ Concluído    |
 | **Zenora**    | 🕊️  Zenora -  Landing page de bem-estar mental   | ✅ Concluído    |
+| **Gerador de Desculpas**    | 🎭 Gerador de Desculpas -  Um gerador inteligente de desculpas corporativas   | ✅ Concluído    |
 
 ---
 
