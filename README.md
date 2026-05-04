@@ -84,12 +84,12 @@ Eu fui responsável por toda a **programação**, enquanto **Eduardo Antonio** f
 
 | Projeto         | Descrição                          | Status         |
 |-----------------|------------------------------------|----------------|
-| **Vellus**      | 🚧 Em desenvolvimento              | 🔨 Em andamento |
 | **Estelar Labs**| 🌌 Projeto concluído               | ✅ Concluído    |
 | **MegaPlay**    | 🎮 Site de nostalgia anos 90/2000  | ✅ Concluído    |
 | **Mais Vida**    | 🌿 Mais Vida – Landing Page Profissional  | ✅ Concluído    |
 | **LuxeGlow**    | ✨ LuxeGlow - Landing Page Premium de Skincare com IA  | ✅ Concluído    |
 | **Museu de Bugs**    | 🏛️  Museu de Bugs -  Exposições das maiores falhas de software da história  | ✅ Concluído    |
+| **Zenora**    | 🕊️  Zenora -  Landing page de bem-estar mental   | ✅ Concluído    |
 
 ---
 
