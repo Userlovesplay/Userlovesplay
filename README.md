@@ -91,6 +91,7 @@ Eu fui responsável por toda a **programação**, enquanto **Eduardo Antonio** f
 | **Museu de Bugs**    | 🏛️  Museu de Bugs -  Exposições das maiores falhas de software da história  | ✅ Concluído    |
 | **Zenora**    | 🕊️  Zenora -  Landing page de bem-estar mental   | ✅ Concluído    |
 | **Gerador de Desculpas**    | 🎭 Gerador de Desculpas -  Um gerador inteligente de desculpas corporativas   | ✅ Concluído    |
+| **Diário de um Café**    | ☕ Diário de um Café -  Uma narrativa poética interativa em oito capítulos   | ✅ Concluído    |
 
 ---
 
