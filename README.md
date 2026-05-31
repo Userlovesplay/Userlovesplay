@@ -24,15 +24,16 @@ Desenvolvedor com experiência em React, TypeScript e JavaScript, criando interf
 - GitHub card preview e Lighthouse metrics
 
 ### **Zenora** | Plataforma de Bem-estar Mental
+🔗 [zenora-nine.vercel.app](https://zenora-nine.vercel.app/)  
 Landing page premium com dark mode e CTA em electric lime  
 - Design system completo (desktop/tablet/mobile)
 - UI componentizada e responsiva
 
 ### **A Fuga de Zumbi** | Jogo
-🔗 [Jogar](https://gd.games/userlovesplay/a-fuga-de-zumbi)  
+🔗 <a href="https://gd.games/userlovesplay/a-fuga-de-zumbi" target="_blank" rel="noopener noreferrer">Jogar</a>
 - GDevelop 5 | Lançado em 2024
 - Programação de mecânicas, IA, física e progressão
-- Colaboração com [designer](https://github.com/eduardo-antonio-s-e-silva) que fez as artes
+- Colaboração com <a href="https://github.com/eduardo-antonio-s-e-silva" target="_blank" rel="noopener noreferrer">designer</a> que fez as artes
 
 ### Outros Projetos
 - **Estelar Labs** — Site do Espaço
