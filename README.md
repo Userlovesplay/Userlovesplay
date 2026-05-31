@@ -17,20 +17,20 @@ Desenvolvedor com experiência em React, TypeScript e JavaScript, criando interf
 ## 🎯 Projetos Principais
 
 ### **Mais Vida** | Landing Page Profissional
-🔗 [mais-vida.vercel.app](https://mais-vida.vercel.app)  
+🔗 <a href="https://mais-vida.vercel.app" target="_blank" rel="noopener noreferrer">mais-vida.vercel.app</a>  
 - Next.js + Tailwind CSS
 - Browser mockup hero interativo
 - Responsivo (mobile, tablet, desktop)
 - GitHub card preview e Lighthouse metrics
 
 ### **Zenora** | Plataforma de Bem-estar Mental
-🔗 [zenora-nine.vercel.app](https://zenora-nine.vercel.app/)  
+🔗 <a href="https://zenora-nine.vercel.app/" target="_blank" rel="noopener noreferrer">zenora-nine.vercel.app</a>  
 Landing page premium com dark mode e CTA em electric lime  
 - Design system completo (desktop/tablet/mobile)
 - UI componentizada e responsiva
 
 ### **A Fuga de Zumbi** | Jogo
-🔗 <a href="https://gd.games/userlovesplay/a-fuga-de-zumbi" target="_blank" rel="noopener noreferrer">Jogar</a>
+🔗 <a href="https://gd.games/userlovesplay/a-fuga-de-zumbi" target="_blank" rel="noopener noreferrer">Jogar</a>  
 - GDevelop 5 | Lançado em 2024
 - Programação de mecânicas, IA, física e progressão
 - Colaboração com <a href="https://github.com/eduardo-antonio-s-e-silva" target="_blank" rel="noopener noreferrer">designer</a> que fez as artes
@@ -42,11 +42,12 @@ Landing page premium com dark mode e CTA em electric lime
 - **Diário de um Café** — Experiência narrativa com Framer Motion + GSAP
 
 ---
+
 ## 📫 Entre em Contato
 
-**Meu Site:** [guilhermeoliveira.dev](https://guilhermeoliveira.dev)  
-**Instagram:** [@guii.developer](https://www.instagram.com/guii.developer/)  
-**LinkedIn:** [guilherme oliveira](https://www.linkedin.com/in/guilherme-oliveira-programador-front-end)
+**Meu Site:** <a href="https://guilhermeoliveira.dev" target="_blank" rel="noopener noreferrer">guilhermeoliveira.dev</a>  
+**Instagram:** <a href="https://www.instagram.com/guii.developer/" target="_blank" rel="noopener noreferrer">@guii.developer</a>  
+**LinkedIn:** <a href="https://www.linkedin.com/in/guilherme-oliveira-programador-front-end" target="_blank" rel="noopener noreferrer">guilherme oliveira</a>
 
 ---
 
