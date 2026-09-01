@@ -40,6 +40,8 @@ Landing page premium com dark mode e CTA em electric lime
 - **MegaPlay** — Site de nostalgia anos 90/2000
 - **Museu de Bugs** — Narrativa interativa sobre falhas de software
 - **Diário de um Café** — Experiência narrativa com Framer Motion + GSAP
+- **EnergiAlerta** — Projeto desenvolvido para o Hackathon SEMCOMP 2026
+- **Lengendary Gym** — Site premium para uma academia
 
 ---
 
